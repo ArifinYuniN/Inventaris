@@ -1,0 +1,26 @@
+<!--
+untuk menampilkan teks yang akan kita masukan pada aplikasi android.
+  -->
+
+<resources>
+    <string name="app_name">Inventaris</string>
+    <string name="sell">Sell</string>
+    <string name="quantity">Jumlah Persediaan dalam Stok:</string>
+    <string name="quantity_req">Banyak Barang <font color='#FF0000'>*</font></string>
+    <string name="item_name_req">Nama Barang <font color='#FF0000'>*</font></string>
+    <string name="item_price_req">Harga Barang <font color='#FF0000'>*</font></string>
+    <string name="save_action">Simpan</string>
+    <string name="item_detail_fragment_title">Item Details</string>
+    <string name="add_fragment_title">Tambah Barang</string>
+    <string name="edit_fragment_title">Edit Barang</string>
+    <string name="price">Harga</string>
+    <string name="quantity_in_stock">Jumlah Barang\ndalam Stok</string>
+    <string name="item">Barang</string>
+    <string name="delete">Hapus</string>
+    <string name="delete_question">Anda yakin ingin menghapus?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="currency_symbol">Rp. </string>
+    <string name="edit_item">Edit Barang</string>
+    <string name="add_new_item">Tambah Barang Baru</string>
+</resources>
